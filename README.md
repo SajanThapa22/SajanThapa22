@@ -1,4 +1,4 @@
-### 💫 About Me:
+# 💫 About Me:
 🙋 Hi! Im a passionate web developer from Nepal
 
 ## 🌐 Socials:
