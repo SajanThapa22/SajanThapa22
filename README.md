@@ -1,3 +1,5 @@
+### 💫 About Me:
+🙋 Hi! Im a passionate web developer from Nepal
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajan-thapa-297280293) 
